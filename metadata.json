@@ -1,0 +1,6 @@
+{
+  "name": "Maison Alisa — Private Exhibition",
+  "description": "A private old-money editorial unveiling curated exclusively for Alisa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
